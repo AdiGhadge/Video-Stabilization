@@ -1,7 +1,9 @@
 
-# Video Stabilization
+# Video Stabilization using Lucas-Kanade Method
 
-This repository contains a simple implementation of video stabilization using OpenCV in Python. The goal is to reduce unwanted shakiness in video footage and provide a smoother output.
+This repository contains a detailed implementation of video stabilization using the Lucas-Kanade optical flow method with OpenCV in Python. The goal is to reduce unwanted shakiness in video footage and provide a smoother, more stable output.
+
+The Lucas-Kanade method is used for tracking keypoints between consecutive frames, allowing us to estimate the camera movement and subsequently stabilize the video. This implementation also involves trajectory smoothing to ensure a steady output.
 
 ## Requirements
 
