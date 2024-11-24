@@ -58,6 +58,10 @@ Alternatively, you can modify the script to use different input and output file 
 python video_stabilization.py
 ```
 
+## Contributors
+
+- [Soham Sant](https://github.com/SohamSant)
+- [Aditya Ghadge](https://github.com/AdiGhadge)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
